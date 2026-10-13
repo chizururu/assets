@@ -8,14 +8,14 @@ This repository serves as a reusable resource library for development, experimen
 
 ## 📂 Repository Contents
 
-| Icon | Category | Description |
-|---|---|---|
-| 📁 | **Project Files** | Project directories, templates, and supporting resources. |
-| 🤖 | **Models** | Trained machine learning and deep learning models. |
-| 📊 | **Datasets** | Data collections for analysis, training, and evaluation. |
-| 🖼️ | **Media Assets** | Images, icons, and other visual resources. |
-| 📄 | **Documents** | Documentation, references, and supporting materials. |
-| 🧩 | **Others** | Additional reusable resources and miscellaneous files. |
+| Category | Description |
+|------|---|
+| 📁  **Project Files** | Project directories, templates, and supporting resources. |
+| 🤖  **Models** | Trained machine learning and deep learning models. |
+| 📊  **Datasets** | Data collections for analysis, training, and evaluation. |
+| 🖼️  **Media Assets** | Images, icons, and other visual resources. |
+| 📄  **Documents** | Documentation, references, and supporting materials. |
+| 🧩  **Others** | Additional reusable resources and miscellaneous files. |
 
 ## 🗂️ Repository Structure
 
